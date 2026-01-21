@@ -1,0 +1,16 @@
+
+!!! CRITICAL ERROR !!!
+
+The application is NOT running because the dependencies are missing.
+The folder "node_modules" does not exist.
+
+REASON:
+Node.js was not found on your system.
+
+SOLUTION:
+1. Download Node.js from https://nodejs.org/ (LTS Version).
+2. Install it and check "Add to PATH".
+3. RESTART your computer (Important!).
+4. Double-click "run_app.bat" in this folder.
+
+If "run_app.bat" closes immediately, it means Node is still not found.
